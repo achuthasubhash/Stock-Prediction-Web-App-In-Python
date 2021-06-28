@@ -6,3 +6,4 @@ numpy==1.18.1
 yfinance
 lxml==4.5.1
 fbprophet==0.7.1
+autots 
